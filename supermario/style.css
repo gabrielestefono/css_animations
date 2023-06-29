@@ -45,6 +45,7 @@ html, body{
     animation-name: drive;
     animation-duration: 3s;
     animation-fill-mode: both;
+    animation-iteration-count: infinite;
 }
 
 
