@@ -58,7 +58,6 @@ html, body{
     animation-fill-mode: both;
     animation-iteration-count: infinite;
     animation-direction: reverse;
-    animation-timing-function: linear;
 }
 
 
